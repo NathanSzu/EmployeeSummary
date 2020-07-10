@@ -22,7 +22,7 @@
   ## <a id='Usage' style='color:white;'>Usage</a>
   Enter node app.js in your terminal, then follow the prompts. HTML file will be titled team.html and placed in the output directory.
 
-  <a href="https://www.youtube.com/watch?v=XVmh_kCzcDg&t=13s">Video Demo</a>
+  <a href="https://www.youtube.com/watch?v=XVmh_kCzcDg&t=13s" target="_blank">Video Demo</a>
 
   ## <a id='License' style='color:white;'>License</a>
   MIT License
